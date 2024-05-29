@@ -1,6 +1,6 @@
 ### ✌️ Hey There!
 
-👋 I'm Johannes, a 20-year-old Computer Science student.
+👋 I'm Johannes, a 21-year-old Computer Science student.
 
 🎓 Studying Computer Science with a focus on embedded systems and IT security.
 
