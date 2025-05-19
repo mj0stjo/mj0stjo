@@ -1,8 +1,8 @@
 ### ✌️ Hey There!
 
-👋 I'm Johannes, a 21-year-old Computer Science student.
+👋 I'm Johannes, a 22-year-old Computer Science student.
 
-🎓 Studying Computer Science with a focus on embedded systems and IT security.
+🎓 Studying Computer Science for a Masters degree in Ulm.
 
 💼 Working at Nokia.
 
