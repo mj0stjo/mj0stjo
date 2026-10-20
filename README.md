@@ -1,6 +1,6 @@
 ### ✌️ Hey There!
 
-👋 I'm Johannes, a 22-year-old Computer Science student.
+👋 I'm Johannes, a 23-year-old Computer Science student.
 
 🎓 Studying Computer Science for a Masters degree in Ulm.
 
